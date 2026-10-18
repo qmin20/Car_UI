@@ -63,6 +63,7 @@ FrutigerAeroIcon(
 ---
 
 ## 📁 Project Structure
+<img width="1192" height="748" alt="image" src="https://github.com/user-attachments/assets/851de024-12b4-4b6e-aa52-c7a8308a66e0" />
 
 ```
 com.example.car_ui
