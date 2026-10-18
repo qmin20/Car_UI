@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33640853/README.md)
+
 # CyberDrive EV — Car Infotainment UI
 
 An Android Automotive infotainment interface concept built with **Jetpack Compose** and **Kotlin**, featuring custom UI components, responsive state management, and an icon design exploration showcasing a **Frutiger Aero** (2000s skeuomorphic glass) aesthetic.
